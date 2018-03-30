@@ -29,8 +29,13 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PP_clustering.cpp">
+    <ClCompile Include="EM.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\year_prediction.csv">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
